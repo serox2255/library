@@ -1,0 +1,2 @@
+you can run this application by writing ./library get -isbn "isbn" for example:
+./library get -isbn "9780747542988"
